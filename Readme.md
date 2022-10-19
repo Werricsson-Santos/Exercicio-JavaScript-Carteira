@@ -4,9 +4,9 @@
 
 - ##### Abre a carteira com as opções de adicionar/remover dinheiro e sair da carteira
 
-###### Exercício para treinar estruturas de condição e de repetição : do, switch e while.
+###### Exercício para treinar estruturas de condição e de repetição : do while e switch.
 
 
 
-##### Deploy - https://werricsson.github.io/Exercicio-JavaScript-Carteira/
+##### Deploy - https://werricsson-santos.github.io/Exercicio-JavaScript-Carteira/
 
